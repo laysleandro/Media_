@@ -1,0 +1,10 @@
+x = float(input("nota :"))
+
+if x >= 7:
+    print("you pass! enjoy it!")
+
+elif 4 <= x <= 6:
+    print("recuperation")
+
+else:
+    print("you don't pass, try next season")
